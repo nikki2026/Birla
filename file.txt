@@ -1,0 +1,11 @@
+Do you need any platform or portal where you want to upload files?
+- Considering user is uploading file using web browser. On uploading the file, the file gets saved to the server. After that we are fetching the file from the server.
+
+Which file formats should be allowed?
+- There is an array which has the list of allowed formats. In our case we have created a sample .txt file.
+
+Will there be any file size boundation?
+- Yes, Files with maximum of 5 kb will be allowed to upload.
+
+Where you want to output the data?
+- We are currently displaying the data on the screen in a basic format. Further styling can be done based on the requirement.
